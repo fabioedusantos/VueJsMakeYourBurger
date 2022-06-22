@@ -1,4 +1,6 @@
-# make-your-burger
+# VueJS: Make Your Burger
+
+Material executado durante o curso de VueJS ministrado por Matheus Battisti.
 
 ## Project setup
 ```
